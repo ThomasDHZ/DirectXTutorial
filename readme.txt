@@ -1,0 +1,1 @@
+Learning direct x from this site: http://www.directxtutorial.com/LessonList.aspx?listid=112
